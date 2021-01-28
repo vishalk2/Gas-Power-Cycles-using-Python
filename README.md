@@ -1,1 +1,1 @@
-# Gas-Power-Cycles-using-Python
+# Ideal Otto Cycle Analysis based on Cold Air Standard Assumptions using Python
